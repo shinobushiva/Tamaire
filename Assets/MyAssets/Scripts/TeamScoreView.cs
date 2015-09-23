@@ -50,7 +50,7 @@ public class TeamScoreView : MonoBehaviour {
 			if(actionRoutine != null)
 				StopCoroutine(actionRoutine);
 			actionRoutine = StartCoroutine (Action (2));
-			gameMaster.PlaySound(sound);
+
 		}
 
 	}
