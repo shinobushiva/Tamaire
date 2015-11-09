@@ -1,0 +1,3 @@
+[submodule "Assets/Shared/Unity-MecanimBootstrap"]
+	path = Assets/Shared/Unity-MecanimBootstrap
+	url = https://github.com/shinobushiva/Unity-MecanimBootstrap.git
